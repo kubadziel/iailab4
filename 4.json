@@ -1,0 +1,302 @@
+{
+  "id": 4,
+  "name": "User4",
+  "rates": [
+    {
+      "movieid": 5,
+      "rate": 50
+    },
+    {
+      "movieid": 7,
+      "rate": 10
+    },
+    {
+      "movieid": 13,
+      "rate": 0
+    },
+    {
+      "movieid": 14,
+      "rate": 3
+    },
+    {
+      "movieid": 18,
+      "rate": 0
+    },
+    {
+      "movieid": 19,
+      "rate": 6
+    },
+    {
+      "movieid": 23,
+      "rate": 9
+    },
+    {
+      "movieid": 25,
+      "rate": 2
+    },
+    {
+      "movieid": 28,
+      "rate": 9
+    },
+    {
+      "movieid": 30,
+      "rate": 2
+    },
+    {
+      "movieid": 32,
+      "rate": 10
+    },
+    {
+      "movieid": 34,
+      "rate": 0
+    },
+    {
+      "movieid": 37,
+      "rate": 5
+    },
+    {
+      "movieid": 39,
+      "rate": 0
+    },
+    {
+      "movieid": 42,
+      "rate": 7
+    },
+    {
+      "movieid": 46,
+      "rate": 0
+    },
+    {
+      "movieid": 48,
+      "rate": 3
+    },
+    {
+      "movieid": 52,
+      "rate": 0
+    },
+    {
+      "movieid": 54,
+      "rate": 7
+    },
+    {
+      "movieid": 56,
+      "rate": 0
+    },
+    {
+      "movieid": 57,
+      "rate": 0
+    },
+    {
+      "movieid": 62,
+      "rate": 0
+    },
+    {
+      "movieid": 81,
+      "rate": 3
+    },
+    {
+      "movieid": 83,
+      "rate": 4
+    },
+    {
+      "movieid": 85,
+      "rate": 9
+    },
+    {
+      "movieid": 86,
+      "rate": 0
+    },
+    {
+      "movieid": 89,
+      "rate": 10
+    },
+    {
+      "movieid": 92,
+      "rate": 2
+    },
+    {
+      "movieid": 94,
+      "rate": 0
+    },
+    {
+      "movieid": 100,
+      "rate": 9
+    },
+    {
+      "movieid": 105,
+      "rate": 6
+    },
+    {
+      "movieid": 107,
+      "rate": 7
+    },
+    {
+      "movieid": 109,
+      "rate": 0
+    },
+    {
+      "movieid": 110,
+      "rate": 0
+    },
+    {
+      "movieid": 113,
+      "rate": 5
+    },
+    {
+      "movieid": 117,
+      "rate": 7
+    },
+    {
+      "movieid": 124,
+      "rate": 3
+    },
+    {
+      "movieid": 127,
+      "rate": 3
+    },
+    {
+      "movieid": 130,
+      "rate": 0
+    },
+    {
+      "movieid": 135,
+      "rate": 10
+    },
+    {
+      "movieid": 138,
+      "rate": 0
+    },
+    {
+      "movieid": 142,
+      "rate": 0
+    },
+    {
+      "movieid": 144,
+      "rate": 10
+    },
+    {
+      "movieid": 145,
+      "rate": 10
+    },
+    {
+      "movieid": 150,
+      "rate": 0
+    },
+    {
+      "movieid": 151,
+      "rate": 8
+    },
+    {
+      "movieid": 153,
+      "rate": 5
+    },
+    {
+      "movieid": 159,
+      "rate": 6
+    },
+    {
+      "movieid": 161,
+      "rate": 10
+    },
+    {
+      "movieid": 163,
+      "rate": 7
+    },
+    {
+      "movieid": 167,
+      "rate": 0
+    },
+    {
+      "movieid": 168,
+      "rate": 10
+    },
+    {
+      "movieid": 173,
+      "rate": 9
+    },
+    {
+      "movieid": 176,
+      "rate": 0
+    },
+    {
+      "movieid": 177,
+      "rate": 8
+    },
+    {
+      "movieid": 188,
+      "rate": 0
+    },
+    {
+      "movieid": 190,
+      "rate": 10
+    },
+    {
+      "movieid": 193,
+      "rate": 0
+    },
+    {
+      "movieid": 195,
+      "rate": 1
+    },
+    {
+      "movieid": 199,
+      "rate": 3
+    },
+    {
+      "movieid": 201,
+      "rate": 3
+    },
+    {
+      "movieid": 202,
+      "rate": 4
+    },
+    {
+      "movieid": 203,
+      "rate": 10
+    },
+    {
+      "movieid": 216,
+      "rate": 0
+    },
+    {
+      "movieid": 219,
+      "rate": 10
+    },
+    {
+      "movieid": 220,
+      "rate": 10
+    },
+    {
+      "movieid": 221,
+      "rate": 10
+    },
+    {
+      "movieid": 222,
+      "rate": 5
+    },
+    {
+      "movieid": 223,
+      "rate": 0
+    },
+    {
+      "movieid": 224,
+      "rate": 10
+    },
+    {
+      "movieid": 230,
+      "rate": 5
+    },
+    {
+      "movieid": 238,
+      "rate": 2
+    },
+    {
+      "movieid": 241,
+      "rate": 8
+    },
+    {
+      "movieid": 249,
+      "rate": 7
+    }
+  ]
+}
